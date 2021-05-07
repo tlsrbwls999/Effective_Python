@@ -1,0 +1,8 @@
+for x in range(4):
+  if x == 2:
+    print ('loop out')
+    break
+else:
+  print ('loop end')
+ 
+#for문이 끝나서 빠져나오는지 확인할때 for else문을 사용하자
