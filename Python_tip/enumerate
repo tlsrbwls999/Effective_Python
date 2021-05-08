@@ -1,0 +1,2 @@
+for i,v in enumerate(어쩌꾸):
+이렇게 하면 앞에가 인덱스 뒤에가 값
