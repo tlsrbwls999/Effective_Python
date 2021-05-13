@@ -1,0 +1,13 @@
+cnt=1
+s="aabbaccc"
+compress=''
+compress+=str(cnt)+s if cnt>=2 else s+'성공'
+print(compress)
+print()
+compress=''
+cnt+=1
+compress+=str(cnt)+s if cnt>=2 else s+'성공'
+print(compress)
+
+결과 aabbaccc성공 , 2aabbaccc이렇게 출력됨 
+식에 관련된 것이 적용 !!!
