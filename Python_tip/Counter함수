@@ -1,0 +1,4 @@
+Counter모듈
+count=Counter([kind for i,kind in clothes]
+
+사용하면 딕셔러니 형태로 만들어 준다
